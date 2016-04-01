@@ -1,4 +1,4 @@
-menu
+// THIS IS SKETCH MENU
 #include <iostream>
 
 
@@ -63,30 +63,30 @@ int main()
     }
     if(option ==6) // jupiter
     { 
-        system("cls")
+        system("cls");
         cout<<"Can you spot that red spot?"<<endl;
-        system("pause")
+        system("pause");
         return 0;
     }
     if(option ==7) //saturn
     {
         system("cls");
         cout<<"Awsome! Planet with a ring"<<endl;
-        system("pause")
+        system("pause");
         return 0;
     }
     if(option ==8) // Uranus
     {
         system("cls");
         cout<<"We are now approaching... smurfs ice cream cone"<<endl;
-        system("pause")
+        system("pause");
         return 0;
     }
     if(option ==9) // Neptune
     { 
         system("cls");
         cout<<"Can feel that wind"<<endl;
-        system("pause")
+        system("pause");
         return 0;
     }
     
