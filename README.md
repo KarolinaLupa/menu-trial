@@ -1,4 +1,3 @@
-// THIS IS SKETCH MENU
 #include <iostream>
 
 
@@ -8,7 +7,7 @@ int option;
 int main()
 { 
     // menu with planets
-    cout<<"Menu"<<endl;
+    cout<<"Hello Traveller! Please type the number of chosen destination"<<endl;
     cout<<"Option 1- Sun"<<endl;
     cout<<"Option 2- Mercury"<<endl;
     cout<<"Option 3- Venus"<<endl;
@@ -101,3 +100,4 @@ int main()
         }
             
 }
+
