@@ -8,7 +8,7 @@ using namespace std;
 int option;
 int main()
 { 
-    // menu with planets let's pray it'll work!
+    // menu with planets
     cout<<"Menu"<<endl;
     cout<<"Option 1- Sun"<<endl;
     cout<<"Option 2- Mercury"<<endl;
